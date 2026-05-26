@@ -300,25 +300,29 @@ Now that the agent can pull the data it needs from Dataverse, we'll set up how i
    ![Test window showing the trigger run and the message sent by the agent](images/step14b-test-window.png)
 
 4. Open your email and confirm the product alert message was received.
+5. Turn off the trigger to avoid receiving multiple emails. You can do this in the end of the workshop. ![Turn off the trigger](images/step14c-turn-off-trigger.png)
 
 ---
 
-# Showcase Deep Reasoning
+<!-- # Showcase Deep Reasoning
 
 ## Step 15 — Enable Deep Reasoning
 
 1. Go to the agent **Settings**.
 2. Toggle **Deep Reasoning** on.
-3. Click **Save**.
+3. Click **Save**. -->
 
 ---
 
-## Step 16 — Publish the agent to Teams (optional)
+## Step 15 — Publish the agent to Teams (optional)
 
 > This step is **optional** — it's a demo, and publishing may be limited in your environment.
 
 1. Publish the agent.
-2. Add the agent to **Microsoft Teams**.
-3. Open the agent in Teams and test it.
+2. Go to Channels
+3. Add the agent to **Microsoft 365 and Microsoft Teams**.
+4. Add it in the popup window
+5. When added, you can click 
+6. Open the agent in Teams and test it.
 
 ---
