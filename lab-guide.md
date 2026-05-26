@@ -167,7 +167,7 @@ In this lab you will build an agent in Microsoft Copilot Studio that monitors pr
    - `update_record`
    - `delete_record`
 
-   ![Dataverse MCP configuration with read actions enabled and all create/update/delete actions disabled](images/step09-readonly.png)
+ <!--  ![Dataverse MCP configuration with read actions enabled and all create/update/delete actions disabled](images/step09-readonly.png) -->
 
 3. Click **Save**.
 
